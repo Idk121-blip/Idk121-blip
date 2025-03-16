@@ -4,11 +4,11 @@ Hi 👋 My name is Alessio Amiri
 Developer
 ---------
 
-I am Alessio Amiri, I live in Italy and I'm a web and rust developer. I'm currently doing my bachelor degree in Computer Science at Trento University.
+I am Alessio Amiri, I live in Italy and I'm a web and rust developer.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [alessioamiri182 at gmail.com](mailto:alessioamiri182 at gmail.com)
-* 🧠  I'm learning Python and Pytorch
+* 🧠  I'm improving my knowledge on .NET 
 
 ### Skills
 
