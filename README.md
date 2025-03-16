@@ -22,8 +22,4 @@ I am Alessio Amiri, I live in Italy and I'm a web and rust developer. I'm curren
 
 <p align="left"> <a href="https://www.github.com/Idk121-blip" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b> <br>
-![](https://raw.githubusercontent.com/Idk121-blip/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Idk121-blip/github-stats/master/generated/languages.svg#gh-dark-mode-only)
